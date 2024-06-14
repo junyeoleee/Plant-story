@@ -8,7 +8,7 @@
 
 🛠 Usage Technologies and Libraries
 
-python, lasberry pie, Tensorflow lite, unity, c#, Firebase
+python, Raspberry Pi, Tensorflow lite, unity, c#, Firebase
 
 
 
